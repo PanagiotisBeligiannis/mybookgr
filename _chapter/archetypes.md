@@ -1,5 +1,6 @@
 ---
 title: Αρχέτυπα
+render_with_liquid: false
 caption: Περίληψη και Βιβλιογραφία για το κεφάλαιο Αρχέτυπα
 image_url: /images/xerox-star-desktop.png
 ---
